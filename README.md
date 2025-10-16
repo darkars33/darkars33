@@ -15,19 +15,10 @@
 </div>
 
 <p align="center">💬 Ask me about <strong style="color:#87ceeb;">Web Development | App Development</strong></p>
-<p align="center">📫 Reach me at <strong><a href="mailto:darshan.email@example.com" style="color: #87ceeb;">darshangarad18@gmail.com</a></strong></p>
+<p align="center">📫 Reach me at <strong><a href="mailto:juned.email@example.com" style="color: #87ceeb;">junedafr@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshan-garad-6b386b252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/darkars33" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.hackerrank.com/darshan33" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
 </p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">Languages and Tools:</h3>
@@ -64,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkars33&custom_title=Darshan's%20Contribution%20Graph&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkars33&custom_title=Juned's%20Contribution%20Graph&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">More Stats:</h3>
@@ -73,12 +64,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darkars33&theme=github_dark" alt="Productive Time">
 </p>
 
-### 💖 Support Me:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/darshan" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://ko-fi.com/darshan" target="_blank">
-    <img src="https://img.shields.io/badge/Kofi-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
-</p>
