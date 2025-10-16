@@ -57,10 +57,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkars33&custom_title=Juned's%20Contribution%20Graph&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
-
-<h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">More Stats:</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkars33&theme=github_dark" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darkars33&theme=github_dark" alt="Productive Time">
-</p>
-
