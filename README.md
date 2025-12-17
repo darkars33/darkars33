@@ -1,7 +1,7 @@
 <!-- Header with Cool GIF -->
 
 
-<h1 align="center" style="font-size: 48px; color: #87ceeb; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm SK Juned</h1>
+<h1 align="center" style="font-size: 48px; color: #87ceeb; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Darshan Garad</h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #1c1c1c; padding: 15px; border-radius: 10px; color: #87ceeb;">A passionate developer exploring web, app development, and more!</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">💬 Ask me about <strong style="color:#87ceeb;">Web Development | App Development</strong></p>
-<p align="center">📫 Reach me at <strong><a href="mailto:juned.email@example.com" style="color: #87ceeb;">junedafr@gmail.com</a></strong></p>
+<p align="center">📫 Reach me at <strong><a href="mailto:juned.email@example.com" style="color: #87ceeb;">darshangarad18@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #87ceeb;">Connect with me:</h3>
 <p align="center">
