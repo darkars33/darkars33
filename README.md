@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkars33&custom_title=Juned's%20Contribution%20Graph&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkars33&custom_title=Darshan's%20Contribution%20Graph&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
